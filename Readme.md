@@ -16,6 +16,8 @@ This project contains four different programs:
 
 To compile all the programs:
 
+`mkdir bin`
+
 `cd src`
 
 `make`
