@@ -10,7 +10,7 @@ This project contains four different programs:
 
 3. Use zero-copy memory to test.
 
-4. Use unified memory to test.
+4. Use unified memory to test. (The result may because the data is moved to gpu and never changed. Add some cpu operations will obtain different results.)
 
 ## Implementation
 
